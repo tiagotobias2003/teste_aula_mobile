@@ -20,6 +20,7 @@ andre
 
 sophia
 
+<<<<<<< HEAD
 
 
 
@@ -115,4 +116,7 @@ sophia
 
 
 Pedro Guilherme #no
+=======
+nayanne
+>>>>>>> d1d6351256504809cf994a19d216872e1e383e8b
 
