@@ -6,11 +6,19 @@ Esse repo é um teste para treinar uso de git
 
 Ana Clara ;)
 
-emerson
 
 
 
-adré pineiro
+
+
+
+
+
+
+
+
+
+sophia
 
 nayanne
 
